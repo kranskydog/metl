@@ -1,0 +1,10 @@
+/bin/
+/working/
+/.settings/
+/.classpath
+/.project
+/build/
+/.DS_Store
+/target/
+/working-save/
+/working20170213/
